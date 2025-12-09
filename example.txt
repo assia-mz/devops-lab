@@ -1,3 +1,7 @@
 Hello, world!
 New line of text
+<<<<<<< HEAD
 third line of text
+=======
+Third line
+>>>>>>> 6195e2092b598a3ee798fe24e2b00fded2080e9f
